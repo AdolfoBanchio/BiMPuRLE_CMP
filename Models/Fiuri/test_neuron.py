@@ -51,22 +51,21 @@ current_trace = []
 for t in range(time_steps):
     print(f"==== Time step {t} ====")
     if t<10:
-        inh_neuron.outputstate=0.5 + t*0.1
-        exc_neuron.outputstate=0.1 - t*0.1
-        gj_neuron.outputstate=0.1 - t*0.1
+        inh_neuron.outputstate=0.5 
+        exc_neuron.outputstate=0.0 
+        gj_neuron.outputstate=0.0 
     elif t<20:
-        inh_neuron.outputstate=0.1 + t*0.05
-        exc_neuron.outputstate=1.5 - t*0.05
-        gj_neuron.outputstate=0.1 - t*0.05
+        inh_neuron.outputstate=0.0
+        exc_neuron.outputstate=1.5 
+        gj_neuron.outputstate=0.0
     elif t<30:
-        inh_neuron.outputstate=0.1
-        exc_neuron.outputstate=0.1
+        inh_neuron.outputstate=0.0
+        exc_neuron.outputstate=0.0
         gj_neuron.outputstate=1.5
     else:
-        inh_neuron.outputstate=0.1 + t*0.1
-        exc_neuron.outputstate=0.1 + t*0.1
-        gj_neuron.outputstate=0.1 + t*0.1
-
+        inh_neuron.outputstate=0.0
+        exc_neuron.outputstate=0.0
+        gj_neuron.outputstate=0.0
 
     curr_stimulus = target_neuron.computeVnext(denditric_inputs)
     current_trace.append(curr_stimulus)
