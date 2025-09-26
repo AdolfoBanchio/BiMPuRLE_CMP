@@ -1,0 +1,399 @@
+==== Time step 0 ====
+inh inf: 0.5
+exc inf: 0.1
+gj inf: -0.1
+current influence (sum Ij): -0.30000000000000004
+current stimulus (instate + Ij) -0.30000000000000004
+Output state (O): 0
+Internal state (O): -0.30000000000000004
+==== Time step 1 ====
+inh inf: 0.6
+exc inf: 0.0
+gj inf: -0.0
+current influence (sum Ij): -0.6
+current stimulus (instate + Ij) -0.9
+Output state (O): 0
+Internal state (O): -0.9
+==== Time step 2 ====
+inh inf: 0.7
+exc inf: -0.1
+gj inf: 0.1
+current influence (sum Ij): -0.8999999999999999
+current stimulus (instate + Ij) -1.7999999999999998
+Output state (O): 0
+Internal state (O): -1.7999999999999998
+==== Time step 3 ====
+inh inf: 0.8
+exc inf: -0.20000000000000004
+gj inf: 0.20000000000000004
+current influence (sum Ij): -1.2
+current stimulus (instate + Ij) -3.0
+Output state (O): 0
+Internal state (O): -3.0
+==== Time step 4 ====
+inh inf: 0.9
+exc inf: -0.30000000000000004
+gj inf: 0.30000000000000004
+current influence (sum Ij): -1.5000000000000002
+current stimulus (instate + Ij) -4.5
+Output state (O): 0
+Internal state (O): -4.5
+==== Time step 5 ====
+inh inf: 1.0
+exc inf: -0.4
+gj inf: 0.4
+current influence (sum Ij): -1.7999999999999998
+current stimulus (instate + Ij) -6.3
+Output state (O): 0
+Internal state (O): -6.3
+==== Time step 6 ====
+inh inf: 1.1
+exc inf: -0.5000000000000001
+gj inf: 0.5000000000000001
+current influence (sum Ij): -2.1
+current stimulus (instate + Ij) -8.4
+Output state (O): 0
+Internal state (O): -8.4
+==== Time step 7 ====
+inh inf: 1.2000000000000002
+exc inf: -0.6000000000000001
+gj inf: 0.6000000000000001
+current influence (sum Ij): -2.4000000000000004
+current stimulus (instate + Ij) -10.8
+Output state (O): 0
+Internal state (O): -10
+==== Time step 8 ====
+inh inf: 1.3
+exc inf: -0.7000000000000001
+gj inf: 0.7000000000000001
+current influence (sum Ij): -2.7
+current stimulus (instate + Ij) -12.7
+Output state (O): 0
+Internal state (O): -10.1
+==== Time step 9 ====
+inh inf: 1.4
+exc inf: -0.8
+gj inf: 0.8
+current influence (sum Ij): -3.0
+current stimulus (instate + Ij) -13.1
+Output state (O): 0
+Internal state (O): -10
+==== Time step 10 ====
+inh inf: 0.6
+exc inf: 1.0
+gj inf: 0.4
+current influence (sum Ij): 0.0
+current stimulus (instate + Ij) -10.0
+Output state (O): 0
+Internal state (O): -10.1
+==== Time step 11 ====
+inh inf: 0.65
+exc inf: 0.95
+gj inf: 0.45000000000000007
+current influence (sum Ij): -0.15000000000000013
+current stimulus (instate + Ij) -10.25
+Output state (O): 0
+Internal state (O): -10
+==== Time step 12 ====
+inh inf: 0.7000000000000001
+exc inf: 0.8999999999999999
+gj inf: 0.5000000000000001
+current influence (sum Ij): -0.30000000000000027
+current stimulus (instate + Ij) -10.3
+Output state (O): 0
+Internal state (O): -10.1
+==== Time step 13 ====
+inh inf: 0.75
+exc inf: 0.85
+gj inf: 0.55
+current influence (sum Ij): -0.45000000000000007
+current stimulus (instate + Ij) -10.549999999999999
+Output state (O): 0
+Internal state (O): -10
+==== Time step 14 ====
+inh inf: 0.8
+exc inf: 0.7999999999999999
+gj inf: 0.6000000000000001
+current influence (sum Ij): -0.6000000000000002
+current stimulus (instate + Ij) -10.6
+Output state (O): 0
+Internal state (O): -10.1
+==== Time step 15 ====
+inh inf: 0.85
+exc inf: 0.75
+gj inf: 0.65
+current influence (sum Ij): -0.75
+current stimulus (instate + Ij) -10.85
+Output state (O): 0
+Internal state (O): -10
+==== Time step 16 ====
+inh inf: 0.9
+exc inf: 0.7
+gj inf: 0.7000000000000001
+current influence (sum Ij): -0.9000000000000001
+current stimulus (instate + Ij) -10.9
+Output state (O): 0
+Internal state (O): -10.1
+==== Time step 17 ====
+inh inf: 0.9500000000000001
+exc inf: 0.6499999999999999
+gj inf: 0.7500000000000001
+current influence (sum Ij): -1.0500000000000003
+current stimulus (instate + Ij) -11.15
+Output state (O): 0
+Internal state (O): -10
+==== Time step 18 ====
+inh inf: 1.0
+exc inf: 0.6
+gj inf: 0.8
+current influence (sum Ij): -1.2000000000000002
+current stimulus (instate + Ij) -11.2
+Output state (O): 0
+Internal state (O): -10.1
+==== Time step 19 ====
+inh inf: 1.05
+exc inf: 0.5499999999999999
+gj inf: 0.8500000000000001
+current influence (sum Ij): -1.35
+current stimulus (instate + Ij) -11.45
+Output state (O): 0
+Internal state (O): -10
+==== Time step 20 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) -8.5
+Output state (O): 0
+Internal state (O): -8.5
+==== Time step 21 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) -7.0
+Output state (O): 0
+Internal state (O): -7.0
+==== Time step 22 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) -5.5
+Output state (O): 0
+Internal state (O): -5.5
+==== Time step 23 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) -4.0
+Output state (O): 0
+Internal state (O): -4.0
+==== Time step 24 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) -2.5
+Output state (O): 0
+Internal state (O): -2.5
+==== Time step 25 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) -1.0
+Output state (O): 0
+Internal state (O): -1.0
+==== Time step 26 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) 0.5
+Output state (O): 0
+Internal state (O): 0.5
+==== Time step 27 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) 2.0
+Output state (O): 1.0
+Internal state (O): 1.0
+==== Time step 28 ====
+inh inf: 0.1
+exc inf: 0.1
+gj inf: -1.5
+current influence (sum Ij): 1.5
+current stimulus (instate + Ij) 2.5
+Output state (O): 1.5
+Internal state (O): 1.5
+==== Time step 29 ====
+inh inf: 0.1
+exc inf: 0.1
+current influence (sum Ij): 0.0
+current stimulus (instate + Ij) 1.5
+Output state (O): 0.5
+Internal state (O): 0.5
+==== Time step 30 ====
+inh inf: 3.1
+exc inf: 3.1
+gj inf: -3.1
+current influence (sum Ij): 3.1
+current stimulus (instate + Ij) 3.6
+Output state (O): 2.6
+Internal state (O): 2.6
+==== Time step 31 ====
+inh inf: 3.2
+exc inf: 3.2
+gj inf: -3.2
+current influence (sum Ij): 3.2
+current stimulus (instate + Ij) 5.800000000000001
+Output state (O): 4.800000000000001
+Internal state (O): 4.800000000000001
+==== Time step 32 ====
+inh inf: 3.3000000000000003
+exc inf: 3.3000000000000003
+gj inf: -3.3000000000000003
+current influence (sum Ij): -3.3000000000000003
+current stimulus (instate + Ij) 1.5000000000000004
+Output state (O): 0.5000000000000004
+Internal state (O): 0.5000000000000004
+==== Time step 33 ====
+inh inf: 3.4000000000000004
+exc inf: 3.4000000000000004
+gj inf: -3.4000000000000004
+current influence (sum Ij): 3.4000000000000004
+current stimulus (instate + Ij) 3.900000000000001
+Output state (O): 2.900000000000001
+Internal state (O): 2.900000000000001
+==== Time step 34 ====
+inh inf: 3.5000000000000004
+exc inf: 3.5000000000000004
+gj inf: -3.5000000000000004
+current influence (sum Ij): 3.5000000000000004
+current stimulus (instate + Ij) 6.400000000000001
+Output state (O): 5.400000000000001
+Internal state (O): 5.400000000000001
+==== Time step 35 ====
+inh inf: 3.6
+exc inf: 3.6
+gj inf: -3.6
+current influence (sum Ij): -3.6
+current stimulus (instate + Ij) 1.8000000000000012
+Output state (O): 0.8000000000000012
+Internal state (O): 0.8000000000000012
+==== Time step 36 ====
+inh inf: 3.7
+exc inf: 3.7
+gj inf: -3.7
+current influence (sum Ij): 3.7
+current stimulus (instate + Ij) 4.500000000000002
+Output state (O): 3.5000000000000018
+Internal state (O): 3.5000000000000018
+==== Time step 37 ====
+inh inf: 3.8000000000000003
+exc inf: 3.8000000000000003
+gj inf: -3.8000000000000003
+current influence (sum Ij): 3.8000000000000003
+current stimulus (instate + Ij) 7.3000000000000025
+Output state (O): 6.3000000000000025
+Internal state (O): 6.3000000000000025
+==== Time step 38 ====
+inh inf: 3.9000000000000004
+exc inf: 3.9000000000000004
+gj inf: -3.9000000000000004
+current influence (sum Ij): -3.9000000000000004
+current stimulus (instate + Ij) 2.400000000000002
+Output state (O): 1.4000000000000021
+Internal state (O): 1.4000000000000021
+==== Time step 39 ====
+inh inf: 4.0
+exc inf: 4.0
+gj inf: -4.0
+current influence (sum Ij): 4.0
+current stimulus (instate + Ij) 5.400000000000002
+Output state (O): 4.400000000000002
+Internal state (O): 4.400000000000002
+==== Time step 40 ====
+inh inf: 4.1
+exc inf: 4.1
+gj inf: -4.1
+current influence (sum Ij): -4.1
+current stimulus (instate + Ij) 0.3000000000000025
+Output state (O): 0
+Internal state (O): 0.3000000000000025
+==== Time step 41 ====
+inh inf: 4.2
+exc inf: 4.2
+gj inf: -4.2
+current influence (sum Ij): 4.2
+current stimulus (instate + Ij) 4.500000000000003
+Output state (O): 3.5000000000000027
+Internal state (O): 3.5000000000000027
+==== Time step 42 ====
+inh inf: 4.3
+exc inf: 4.3
+gj inf: -4.3
+current influence (sum Ij): 4.3
+current stimulus (instate + Ij) 7.8000000000000025
+Output state (O): 6.8000000000000025
+Internal state (O): 6.8000000000000025
+==== Time step 43 ====
+inh inf: 4.3999999999999995
+exc inf: 4.3999999999999995
+gj inf: -4.3999999999999995
+current influence (sum Ij): -4.3999999999999995
+current stimulus (instate + Ij) 2.400000000000003
+Output state (O): 1.400000000000003
+Internal state (O): 1.400000000000003
+==== Time step 44 ====
+inh inf: 4.5
+exc inf: 4.5
+gj inf: -4.5
+current influence (sum Ij): 4.5
+current stimulus (instate + Ij) 5.900000000000003
+Output state (O): 4.900000000000003
+Internal state (O): 4.900000000000003
+==== Time step 45 ====
+inh inf: 4.6
+exc inf: 4.6
+gj inf: -4.6
+current influence (sum Ij): -4.6
+current stimulus (instate + Ij) 0.3000000000000034
+Output state (O): 0
+Internal state (O): 0.3000000000000034
+==== Time step 46 ====
+inh inf: 4.7
+exc inf: 4.7
+gj inf: -4.7
+current influence (sum Ij): 4.7
+current stimulus (instate + Ij) 5.0000000000000036
+Output state (O): 4.0000000000000036
+Internal state (O): 4.0000000000000036
+==== Time step 47 ====
+inh inf: 4.8
+exc inf: 4.8
+gj inf: -4.8
+current influence (sum Ij): 4.8
+current stimulus (instate + Ij) 8.800000000000004
+Output state (O): 7.800000000000004
+Internal state (O): 7.800000000000004
+==== Time step 48 ====
+inh inf: 4.9
+exc inf: 4.9
+gj inf: -4.9
+current influence (sum Ij): -4.9
+current stimulus (instate + Ij) 2.900000000000004
+Output state (O): 1.900000000000004
+Internal state (O): 1.900000000000004
+==== Time step 49 ====
+inh inf: 5.0
+exc inf: 5.0
+gj inf: -5.0
+current influence (sum Ij): 5.0
+current stimulus (instate + Ij) 6.900000000000004
+Output state (O): 5.900000000000004
+Internal state (O): 5.900000000000004
